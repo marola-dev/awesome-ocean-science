@@ -26,7 +26,6 @@ and Brazil and the South Atlantic get their own sections. Every link was checked
 - [Brazil and the South Atlantic](#brazil-and-the-south-atlantic)
 - [On Instagram](#on-instagram)
 - [Ocean sound](#ocean-sound)
-- [Speech to text and text to speech](#speech-to-text-and-text-to-speech)
 - [Citizen science](#citizen-science)
 - [Learning](#learning)
 - [Related lists](#related-lists)
@@ -278,37 +277,6 @@ Science-communication accounts worth following, starting from [@whoi.ocean](http
 - [Ketos](https://docs.meridian.cs.dal.ca/ketos/) - Deep-learning detectors and classifiers for underwater sound (GPL-3.0).
 - [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) - Bioacoustic spectrograms, CNN training and localisation in Python (MIT).
 
-## Speech to text and text to speech
-
-For voice notes from the beach and for transcribing ocean-science videos. Portuguese support is
-noted because it matters on the Brazilian coast.
-
-### Speech to text
-
-- [Whisper](https://github.com/openai/whisper) - OpenAI's multilingual speech recognition, Portuguese included (MIT).
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Whisper on CTranslate2, up to 4x faster with less memory (MIT).
-- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Dependency-free C/C++ Whisper for CPU, Apple Silicon, GPUs, phones and Raspberry Pi (MIT).
-- [WhisperX](https://github.com/m-bain/whisperX) - Whisper with word-level timestamps and speaker diarization (BSD-2-Clause).
-- [Canary-1B-v2](https://huggingface.co/nvidia/canary-1b-v2) - NVIDIA recognition and translation across 25 European languages, Portuguese included (CC BY 4.0); see also [Parakeet-TDT-0.6B-v3](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v3).
-- [Voxtral](https://arxiv.org/abs/2507.13264) - Mistral's speech-understanding models for transcription and audio Q&A, Portuguese included (Apache-2.0).
-- [Vosk](https://github.com/alphacep/vosk-api) - Offline recognition with small models in 20+ languages, Portuguese included (Apache-2.0).
-- [Moonshine](https://github.com/moonshine-ai/moonshine) - Low-latency on-device speech recognition (MIT).
-
-### Text to speech
-
-- [Piper](https://github.com/OHF-Voice/piper1-gpl) - Fast local neural TTS with pt_BR and pt_PT voices (GPL-3.0).
-- [Kokoro](https://github.com/hexgrad/kokoro) - 82M-parameter open-weight TTS with Brazilian Portuguese voices (Apache-2.0).
-- [Chatterbox](https://github.com/resemble-ai/chatterbox) - Voice-cloning TTS whose multilingual model covers pt-BR and pt-PT; output is watermarked (MIT).
-- [Coqui TTS](https://github.com/idiap/coqui-ai-TTS) - Community fork of Coqui TTS with XTTS-v2 (MPL-2.0 code; XTTS-v2 weights non-commercial).
-- [F5-TTS](https://github.com/SWivid/F5-TTS) - Flow-matching TTS (MIT code, CC BY-NC weights).
-
-### Runtimes and pipelines
-
-- [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Offline runtime for Whisper, Parakeet, Moonshine, Piper and Kokoro on desktop, mobile and ARM (Apache-2.0).
-- [Speaches](https://github.com/speaches-ai/speaches) - Self-hosted, OpenAI-API-compatible server pairing faster-whisper with Kokoro and Piper (MIT).
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Downloads audio and video from thousands of sites, Instagram reels included with logged-in cookies; pipe the audio into Whisper (Unlicense).
-- [Instaloader](https://github.com/instaloader/instaloader) - Downloads Instagram posts, reels and captions (MIT). Instagram's [Terms of Use](https://help.instagram.com/581066165581870) forbid automated collection without permission, so keep to content you have rights to, one item at a time.
-
 ## Citizen science
 
 - [iNaturalist](https://www.inaturalist.org/) - Record and identify biodiversity, marine species included.
@@ -350,17 +318,17 @@ noted because it matters on the Brazilian coast.
 
 ## Inbox
 
-Instagram reels that inspired this list and still need transcribing (yt-dlp + Whisper, above).
+Instagram reels that inspired this list and still need to be watched.
 Each becomes an entry in the matching section once its subject is known and checked.
 
 | Reel | Note it came with |
 |---|---|
 | [DdXamf8jr9Y](https://www.instagram.com/reel/DdXamf8jr9Y/) | |
 | [Dcbru9ZIF-B](https://www.instagram.com/reel/Dcbru9ZIF-B/) | |
-| [DZmp_lZvXWQ](https://www.instagram.com/reel/DZmp_lZvXWQ/) | Reading Instagram from an agent |
+| [DZmp_lZvXWQ](https://www.instagram.com/reel/DZmp_lZvXWQ/) | |
 | [Dc1EBSGR-Pm](https://www.instagram.com/reel/Dc1EBSGR-Pm/) | |
 | [DdpPu_tKxcm](https://www.instagram.com/reel/DdpPu_tKxcm/) | Awesome ocean science |
-| [DcCuu9Ny7IO](https://www.instagram.com/reel/DcCuu9Ny7IO/) | Speech to text |
+| [DcCuu9Ny7IO](https://www.instagram.com/reel/DcCuu9Ny7IO/) | |
 | [DbSMFB1x0xm](https://www.instagram.com/reel/DbSMFB1x0xm/) | |
 | [DcKOM_ojl4d](https://www.instagram.com/reel/DcKOM_ojl4d/) | |
 | [Dd4Ffc2Cf9O](https://www.instagram.com/reel/Dd4Ffc2Cf9O/) | |
